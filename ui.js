@@ -2,7 +2,7 @@
         window.onload = function() {
             // Preload the new images
             var newImage1 = new Image();
-            newImage1.src = 'https://serverlessinfra.com/dashicons/6.svg';
+            newImage1.src = 'https://raw.githubusercontent.com/Manishyadv/slui/main/Edgeedge.svg';
             
             var newImage2 = new Image();
             newImage2.src = 'https://serverlessinfra.com/dashicons/7.svg';
